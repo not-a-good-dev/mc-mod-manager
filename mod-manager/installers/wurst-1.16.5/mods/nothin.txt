@@ -1,1 +1,1 @@
-this file is intended for storing wurst
+this folder is intended for storing wurst
