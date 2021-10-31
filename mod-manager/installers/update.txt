@@ -1,2 +1,2 @@
 This section is now legacy and will be slowly removed
-As we add executables into this project 
+As we add applications into this project 
