@@ -1,1 +1,1 @@
-
+import PyAutoGUI as sgui
