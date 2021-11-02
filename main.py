@@ -1,1 +1,2 @@
-import PyAutoGUI as sgui
+import PySimpleGUI as sg
+from version import *
